@@ -16,5 +16,7 @@ namespace ET
 
         public const int ERR_NetWorkError = 200002;//网络错误
         public const int ERR_LoginInfoError = 200003;//登陆信息错误
+
+        public const int ERR_RequestRepeatedly = 200004;//重复登陆错误
     }
 }
